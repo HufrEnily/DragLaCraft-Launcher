@@ -2,15 +2,15 @@
   "base_url": "https://raw.githubusercontent.com/HufrEnily/DragLaCraft-Launcher/main/build/",
   "files": {
     "DragLaCraft.exe": {
-      "sha256": "196ec012490c2ac6c94f92ddb9d25d311d35e9b322e05f9305793ed1e30cf3ef",
-      "size": 33847234
+      "sha256": "e087185c803cdc84a22f840f9e901e5d104cf22381fc1e672c0cdd59a6c41eeb",
+      "size": 33846713
     },
     "DragLaCraftUpdater.exe": {
-      "sha256": "4d5aadcf2d5d535ead0240706fe3f038880a01a635f4b2f094ed99c6764dc060",
-      "size": 9027839
+      "sha256": "8884b8aabf2bee620c858e8cf076b86430c9fa3821328fc01883c824d0341fa7",
+      "size": 9028079
     }
   },
-  "published_at": "2026-07-27T11:39:42.053356+00:00",
+  "published_at": "2026-07-27T12:36:12.532093+00:00",
   "schema": 1,
-  "version": "4.1.0"
+  "version": "1.0.0"
 }
